@@ -27,5 +27,5 @@ jobs:
         with:
           author_name: GitHub Actions
           author_email: actions@github.com
-          message: "Update README with stargazers"
+          message: "Update README with latest stargazers"
           add: README.md
